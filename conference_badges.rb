@@ -20,4 +20,5 @@ def assign_rooms(speakers)
 array
 end#rooms
 
-def printer
+def printer(speakers)
+  
