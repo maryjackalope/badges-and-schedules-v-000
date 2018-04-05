@@ -2,9 +2,11 @@
 
 def badge_maker(name)
   "Bonjour, je m'appelle #{name}."
-end #badge
+end 
 
 def batch_badge_creator(array)
   speakers.collect do |name|
-    
+  "Bonjour, je m'appelle #{name}."
+  end #do
 end
+
