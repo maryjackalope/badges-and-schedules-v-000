@@ -5,5 +5,6 @@ def badge_maker(name)
 end #badge
 
 def batch_badge_creator(array)
-  
+  speakers.collect do |name|
+    
 end
