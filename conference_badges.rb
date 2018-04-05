@@ -6,7 +6,7 @@ end
 
 def batch_badge_creator(array)
   speakers=[]
-  speakers.collect do |badges|
+  speakers.each do |badges|
   
   end #do
   speakers
