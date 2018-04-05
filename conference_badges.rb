@@ -7,7 +7,7 @@ end
 def batch_badge_creator(speakers)
   array=[]
   speakers.each do |badges|
-  
+  array 
   end #do
   speakers
 end
