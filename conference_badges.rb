@@ -8,6 +8,7 @@ def batch_badge_creator(array)
   speakers.collect do |name|
   "Hello, my name is #{name}."
   end #do
+  speakers
 end
 
 def assign_rooms(speakers)
